@@ -43,3 +43,6 @@ networks:
         swarm:
                 external:
                         name: swarm
+
+volumes:
+        staging-assets: {}
